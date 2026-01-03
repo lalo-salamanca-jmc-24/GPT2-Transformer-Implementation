@@ -13,18 +13,6 @@ Understanding and implementing the GPT-2 decoder-only transformer architecture f
 
 ---
 
-## Features
-
-| Feature                     | Description                                |
-| --------------------------- | ------------------------------------------ |
-| **Deep Theory Guide**       | Comprehensive mathematical foundations     |
-| **Code Implementation**     | PyTorch modules with detailed explanations |
-| **Control Flow Diagrams**   | LaTeX-rendered architecture visualizations |
-| **Worked Examples**         | Step-by-step numerical walkthroughs        |
-| **Attention Visualization** | Heatmaps of attention patterns             |
-
----
-
 ## Architecture
 
 ```
